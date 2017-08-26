@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 26 Aug 2017 13:25:58 at https://walls.io/7DkiSegd6 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://walls.io/7DkiSegd6 -O1 "C:\My Web Sites\ht6" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:27:11	Error: 	"Not Found" (404) at link https://walls.io/404 (from https://walls.io/)
+13:27:11	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://walls.io/)
+13:30:37	Error: 	"Not Found" (404) at link https://walls.io/build/img/fallback-api-project-video-walls.io.jpg (from https://walls.io/api-projects)
+13:31:18	Warning: 	Moved Temporarily for https://walls.io/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+13:31:18	Warning: 	File has moved from https://walls.io/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ to http://walls.io/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+
+13:31:23	Error: 	"Not Found" (404) at link https://walls.io/css/walter-map.css (from https://walls.io/travel?theme=map)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 31 seconds : 217 links scanned, 211 files written (159452175 bytes overall) [155302969 bytes received at 469193 bytes/sec], 6209883 bytes transferred using HTTP compression in 94 files, ratio 30%, 8.0 requests per connection
+(4 errors, 2 warnings, 0 messages)
